@@ -21,7 +21,7 @@ namespace QuestGuildTerminal
             _notificationService = new NotificationService();
             _guildAdvisor = new EnhancedGuildAdvisorAI();
             _questManager = new QuestManager();
-            _musicService = new SimpleMusicService(); 
+            _musicService = new SimpleLoopingMusicService();
             
 
             Console.WriteLine("🚀 Quest Guild Terminal Started!");
