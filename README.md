@@ -1,15 +1,13 @@
 
 
  📖 Table of Contents
-- [🌟 Overview](-overview)
-- [⚡ Features](-features)
-- [🚀 Quick Start](-quick-start)
-- [🏗️ Project Structure](️-project-structure)
-- [🎮 How to Use](-how-to-use)
-- [🔧 Configuration](-configuration)
-- [📸 Screenshots](-screenshots)
-- [🛠️ Development](️-development)
-- [🤝 Contributing](-contributing)
+- [🌟 Overview]
+- [⚡ Features]
+- [🚀 Quick Start]
+- [🏗️ Project Structure]
+- [🎮 How to Use]
+- [🔧 Configuration]
+
 
  🌟 Overview
 
