@@ -123,6 +123,6 @@ namespace QuestGuildTerminal
                 .ToListAsync();
         }
 
-        // ... other async methods remain for future database usage
+        
     }
 }

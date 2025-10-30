@@ -54,7 +54,7 @@ namespace QuestGuildTerminal
             Class = heroClass;
         }
 
-        // Add this method to fix the VerifyPassword error
+        //  this method to  VerifyPassword the password
         public bool VerifyPassword(string password)
         {
             return Password == password; // Simple comparison - in production, use hashing!

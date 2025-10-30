@@ -14,7 +14,7 @@ namespace QuestGuildTerminal.Services
         private string _currentMusicPath;
 
         public bool IsPlaying => _isPlaying;
-        public float Volume { get; set; } = 0.3f;
+        public double Volume { get; set; } = 1d; 
 
         public Task PlayBackgroundMusicAsync(string filePath)
         {
@@ -59,7 +59,7 @@ namespace QuestGuildTerminal.Services
                     // If we get here, the song finished - wait a moment then restart
                     if (_isPlaying && !_cancellationTokenSource.Token.IsCancellationRequested)
                     {
-                        Console.WriteLine("🔁 Restarting music...");
+                       
                         await Task.Delay(500); // Brief pause between loops
                     }
                 }
@@ -134,7 +134,7 @@ namespace QuestGuildTerminal.Services
                     killProcess?.WaitForExit();
                 }
                 
-                Console.WriteLine("🎵 Music stopped");
+                
             }
             catch (Exception ex)
             {
@@ -156,9 +156,9 @@ namespace QuestGuildTerminal.Services
             }
         }
 
-        public void SetVolume(float volume)
+        public void SetVolume(double volume)
         {
-            Volume = Math.Clamp(volume, 0f, 1f);
+            Volume = Math.Clamp(volume, 0d, 1d);
             Console.WriteLine($"🔊 Volume set to {Volume * 100}%");
         }
 
