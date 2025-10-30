@@ -19,7 +19,7 @@ namespace QuestGuildTerminal
             PressAnyKey();
         }
 
-        // ADD THIS MISSING METHOD
+      
         public static void DisplayError(string message)
         {
             Console.WriteLine($"\n❌ {message}");
@@ -40,18 +40,19 @@ namespace QuestGuildTerminal
         public static string ReadPassword()
         {
             var password = "";
-            ConsoleKeyInfo key;
-            
+            ConsoleKeyInfo key;// capture  each key press
+
+            // while to do this until enter is pressed
             do
             {
-                key = Console.ReadKey(true);
+                key = Console.ReadKey(true);// reads a key without displaying it (true = hide input)
                 
                 if (key.Key != ConsoleKey.Backspace && key.Key != ConsoleKey.Enter)
                 {
                     password += key.KeyChar;
                     Console.Write("*");
                 }
-                else if (key.Key == ConsoleKey.Backspace && password.Length > 0)
+                else if (key.Key == ConsoleKey.Backspace && password.Length > 0)// handle backspace and remove last char
                 {
                     password = password.Substring(0, password.Length - 1);
                     Console.Write("\b \b");

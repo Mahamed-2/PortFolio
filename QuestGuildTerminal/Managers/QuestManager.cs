@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace QuestGuildTerminal
 {
-    public class QuestManager : IQuestManager // Make sure this line says IQuestManager
+    public class QuestManager : IQuestManager 
     {
         private List<Quest> _quests;
 
@@ -14,7 +14,7 @@ namespace QuestGuildTerminal
             _quests = new List<Quest>();
         }
 
-        // All your existing methods here...
+      
         public void AddQuest(Quest quest)
         {
             _quests.Add(quest);

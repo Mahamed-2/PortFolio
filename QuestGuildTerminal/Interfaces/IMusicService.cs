@@ -6,12 +6,12 @@ namespace QuestGuildTerminal
     public interface IMusicService : IDisposable
     {
         bool IsPlaying { get; }
-        float Volume { get; set; }
+        double Volume { get; set; }
         
         Task PlayBackgroundMusicAsync(string filePath);
         void Stop();
         void Pause();
         void Resume();
-        void SetVolume(float volume);
+        void SetVolume(double volume);
     }
 }

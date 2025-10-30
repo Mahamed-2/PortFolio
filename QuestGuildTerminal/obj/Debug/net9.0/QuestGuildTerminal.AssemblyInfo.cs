@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuestGuildTerminal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a82763bba384420c9b5ed2b929245410ab86b711")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+679afe695891fb8bb24e5004e139b050be4c69f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuestGuildTerminal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuestGuildTerminal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
