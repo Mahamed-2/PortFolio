@@ -1,7 +1,5 @@
 // Services/EnhancedNotificationService.cs - Also update this one
-using System;
-using System.Linq;
-using System.Threading.Tasks;
+
 
 namespace QuestGuildTerminal
 {
@@ -17,8 +15,8 @@ namespace QuestGuildTerminal
             
             // Initialize real services if configured, otherwise use simulated
             _emailService = _config.IsEmailEnabled 
-                ? new RealEmailService(config.Email) 
-                : new SimulatedEmailService();
+                ? new RealEmailService(config.Email) //? means if true use this
+                : new SimulatedEmailService();//: if false use this
                 
             _smsService = _config.IsSmsEnabled 
                 ? new RealSmsService(config.Sms) 

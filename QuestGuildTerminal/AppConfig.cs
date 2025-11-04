@@ -1,5 +1,5 @@
 // AppConfig.cs
-using System;
+
 
 namespace QuestGuildTerminal
 {
@@ -7,11 +7,9 @@ namespace QuestGuildTerminal
     {
         public static string GetGeminiApiKey()
         {
-            // Your existing API key logic...
-            return null; // We're using simulated AI for now
+            //My existing API key logic.
+            return null; // using simulated AI for now
         }
-
-        // ADD THIS METHOD
         public static NotificationConfig GetNotificationConfig()
         {
             return new NotificationConfig
@@ -20,7 +18,7 @@ namespace QuestGuildTerminal
                 {
                     // Get from environment variables or app settings
                     ApiKey = Environment.GetEnvironmentVariable("SENDGRID_API_KEY"),
-                    FromEmail = Environment.GetEnvironmentVariable("SENDGRID_FROM_EMAIL") ?? "questguild@yourdomain.com",
+                    FromEmail = Environment.GetEnvironmentVariable("SENDGRID_FROM_EMAIL") ?? "questguild@yourdomain.com",//default email if env var is not set and ?? means only if null use this
                     FromName = "Quest Guild Terminal"
                 },
                 Sms = new SmsConfig

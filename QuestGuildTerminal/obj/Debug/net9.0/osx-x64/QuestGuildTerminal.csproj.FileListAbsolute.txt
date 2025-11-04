@@ -1,0 +1,658 @@
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/QuestGuildTerminal
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/QuestGuildTerminal.deps.json
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/QuestGuildTerminal.runtimeconfig.json
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/QuestGuildTerminal.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/QuestGuildTerminal.pdb
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Humanizer.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Build.Locator.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.CodeAnalysis.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.CodeAnalysis.CSharp.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Data.Sqlite.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.EntityFrameworkCore.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Caching.Memory.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.Binder.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.Json.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.DependencyInjection.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.DependencyModel.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Diagnostics.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Hosting.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Logging.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Logging.Configuration.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Logging.Console.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Logging.Debug.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Logging.EventLog.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Logging.EventSource.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Options.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Primitives.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Mono.TextTemplating.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/NAudio.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/NAudio.Asio.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/NAudio.Core.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/NAudio.Midi.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/NAudio.Wasapi.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/NAudio.WinMM.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/SQLitePCLRaw.batteries_v2.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/SQLitePCLRaw.core.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.CodeDom.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Composition.AttributedModel.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Composition.Convention.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Composition.Hosting.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Composition.Runtime.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Composition.TypedParts.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.EventLog.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/de/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/es/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/it/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libe_sqlite3.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.CSharp.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.VisualBasic.Core.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.VisualBasic.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Win32.Primitives.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Win32.Registry.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.AppContext.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Buffers.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Collections.Concurrent.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Collections.Immutable.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Collections.NonGeneric.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Collections.Specialized.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Collections.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ComponentModel.Annotations.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ComponentModel.DataAnnotations.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ComponentModel.EventBasedAsync.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ComponentModel.Primitives.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ComponentModel.TypeConverter.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ComponentModel.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Configuration.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Console.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Core.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Data.Common.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Data.DataSetExtensions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Data.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.Contracts.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.Debug.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.DiagnosticSource.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.FileVersionInfo.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.Process.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.StackTrace.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.TextWriterTraceListener.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.Tools.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.TraceSource.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.Tracing.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Drawing.Primitives.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Drawing.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Dynamic.Runtime.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Formats.Asn1.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Formats.Tar.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Globalization.Calendars.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Globalization.Extensions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Globalization.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.Compression.Brotli.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.Compression.FileSystem.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.Compression.ZipFile.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.Compression.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.FileSystem.AccessControl.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.FileSystem.DriveInfo.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.FileSystem.Primitives.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.FileSystem.Watcher.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.FileSystem.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.IsolatedStorage.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.MemoryMappedFiles.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.Pipelines.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.Pipes.AccessControl.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.Pipes.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.UnmanagedMemoryStream.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Linq.Expressions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Linq.Parallel.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Linq.Queryable.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Linq.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Memory.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Http.Json.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Http.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.HttpListener.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Mail.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.NameResolution.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.NetworkInformation.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Ping.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Primitives.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Quic.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Requests.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Security.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.ServicePoint.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Sockets.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.WebClient.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.WebHeaderCollection.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.WebProxy.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.WebSockets.Client.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.WebSockets.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Numerics.Vectors.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Numerics.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ObjectModel.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Private.CoreLib.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Private.DataContractSerialization.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Private.Uri.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Private.Xml.Linq.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Private.Xml.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.DispatchProxy.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.Emit.ILGeneration.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.Emit.Lightweight.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.Emit.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.Extensions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.Metadata.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.Primitives.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.TypeExtensions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Resources.Reader.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Resources.ResourceManager.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Resources.Writer.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.CompilerServices.Unsafe.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.CompilerServices.VisualC.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Extensions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Handles.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.InteropServices.JavaScript.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.InteropServices.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Intrinsics.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Loader.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Numerics.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Serialization.Formatters.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Serialization.Json.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Serialization.Primitives.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Serialization.Xml.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Serialization.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.AccessControl.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Claims.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.Algorithms.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.Cng.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.Csp.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.Encoding.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.OpenSsl.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.Primitives.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.X509Certificates.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Principal.Windows.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Principal.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.SecureString.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ServiceModel.Web.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ServiceProcess.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Text.Encoding.CodePages.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Text.Encoding.Extensions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Text.Encoding.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Text.Encodings.Web.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Text.Json.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Text.RegularExpressions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Channels.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Overlapped.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Tasks.Dataflow.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Tasks.Extensions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Tasks.Parallel.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Tasks.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Thread.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.ThreadPool.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Timer.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Transactions.Local.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Transactions.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ValueTuple.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Web.HttpUtility.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Web.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Windows.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.Linq.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.ReaderWriter.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.Serialization.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.XDocument.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.XPath.XDocument.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.XPath.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.XmlDocument.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.XmlSerializer.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/WindowsBase.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/mscorlib.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/netstandard.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/createdump
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libSystem.Globalization.Native.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libSystem.IO.Compression.Native.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libSystem.Native.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libSystem.Net.Security.Native.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libSystem.Security.Cryptography.Native.Apple.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libSystem.Security.Cryptography.Native.OpenSsl.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libclrgc.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libclrgcexp.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libclrjit.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libcoreclr.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libhostfxr.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libhostpolicy.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libmscordaccore.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libmscordbi.dylib
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.csproj.AssemblyReference.cache
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.AssemblyInfoInputs.cache
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.AssemblyInfo.cs
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.csproj.CoreCompileInputs.cache
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGui.9FB4B3CA.Up2Date
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/refint/QuestGuildTerminal.dll
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.pdb
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.genruntimeconfig.cache
+/Users/Sheikh/Desktop/PortFolio-Version-3/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/ref/QuestGuildTerminal.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/QuestGuildTerminal
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/QuestGuildTerminal.deps.json
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/QuestGuildTerminal.runtimeconfig.json
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/QuestGuildTerminal.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/QuestGuildTerminal.pdb
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Humanizer.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Build.Locator.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.CodeAnalysis.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.CodeAnalysis.CSharp.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Data.Sqlite.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.EntityFrameworkCore.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Caching.Memory.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.Binder.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.Json.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.DependencyInjection.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.DependencyModel.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Diagnostics.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Hosting.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Logging.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Logging.Configuration.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Logging.Console.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Logging.Debug.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Logging.EventLog.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Logging.EventSource.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Options.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Extensions.Primitives.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Mono.TextTemplating.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/NAudio.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/NAudio.Asio.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/NAudio.Core.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/NAudio.Midi.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/NAudio.Wasapi.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/NAudio.WinMM.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/SQLitePCLRaw.batteries_v2.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/SQLitePCLRaw.core.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.CodeDom.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Composition.AttributedModel.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Composition.Convention.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Composition.Hosting.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Composition.Runtime.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Composition.TypedParts.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.EventLog.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/de/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/es/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/it/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libe_sqlite3.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.CSharp.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.VisualBasic.Core.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.VisualBasic.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Win32.Primitives.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Microsoft.Win32.Registry.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.AppContext.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Buffers.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Collections.Concurrent.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Collections.Immutable.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Collections.NonGeneric.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Collections.Specialized.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Collections.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ComponentModel.Annotations.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ComponentModel.DataAnnotations.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ComponentModel.EventBasedAsync.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ComponentModel.Primitives.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ComponentModel.TypeConverter.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ComponentModel.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Configuration.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Console.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Core.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Data.Common.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Data.DataSetExtensions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Data.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.Contracts.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.Debug.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.DiagnosticSource.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.FileVersionInfo.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.Process.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.StackTrace.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.TextWriterTraceListener.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.Tools.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.TraceSource.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Diagnostics.Tracing.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Drawing.Primitives.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Drawing.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Dynamic.Runtime.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Formats.Asn1.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Formats.Tar.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Globalization.Calendars.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Globalization.Extensions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Globalization.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.Compression.Brotli.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.Compression.FileSystem.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.Compression.ZipFile.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.Compression.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.FileSystem.AccessControl.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.FileSystem.DriveInfo.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.FileSystem.Primitives.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.FileSystem.Watcher.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.FileSystem.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.IsolatedStorage.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.MemoryMappedFiles.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.Pipelines.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.Pipes.AccessControl.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.Pipes.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.UnmanagedMemoryStream.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.IO.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Linq.Expressions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Linq.Parallel.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Linq.Queryable.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Linq.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Memory.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Http.Json.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Http.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.HttpListener.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Mail.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.NameResolution.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.NetworkInformation.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Ping.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Primitives.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Quic.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Requests.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Security.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.ServicePoint.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.Sockets.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.WebClient.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.WebHeaderCollection.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.WebProxy.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.WebSockets.Client.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.WebSockets.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Net.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Numerics.Vectors.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Numerics.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ObjectModel.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Private.CoreLib.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Private.DataContractSerialization.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Private.Uri.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Private.Xml.Linq.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Private.Xml.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.DispatchProxy.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.Emit.ILGeneration.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.Emit.Lightweight.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.Emit.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.Extensions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.Metadata.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.Primitives.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.TypeExtensions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Reflection.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Resources.Reader.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Resources.ResourceManager.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Resources.Writer.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.CompilerServices.Unsafe.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.CompilerServices.VisualC.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Extensions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Handles.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.InteropServices.JavaScript.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.InteropServices.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Intrinsics.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Loader.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Numerics.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Serialization.Formatters.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Serialization.Json.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Serialization.Primitives.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Serialization.Xml.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.Serialization.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Runtime.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.AccessControl.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Claims.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.Algorithms.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.Cng.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.Csp.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.Encoding.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.OpenSsl.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.Primitives.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.X509Certificates.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Cryptography.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Principal.Windows.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.Principal.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.SecureString.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Security.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ServiceModel.Web.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ServiceProcess.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Text.Encoding.CodePages.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Text.Encoding.Extensions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Text.Encoding.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Text.Encodings.Web.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Text.Json.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Text.RegularExpressions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Channels.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Overlapped.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Tasks.Dataflow.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Tasks.Extensions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Tasks.Parallel.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Tasks.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Thread.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.ThreadPool.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.Timer.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Threading.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Transactions.Local.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Transactions.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.ValueTuple.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Web.HttpUtility.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Web.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Windows.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.Linq.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.ReaderWriter.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.Serialization.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.XDocument.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.XPath.XDocument.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.XPath.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.XmlDocument.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.XmlSerializer.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.Xml.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/System.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/WindowsBase.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/mscorlib.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/netstandard.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/createdump
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libSystem.Globalization.Native.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libSystem.IO.Compression.Native.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libSystem.Native.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libSystem.Net.Security.Native.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libSystem.Security.Cryptography.Native.Apple.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libSystem.Security.Cryptography.Native.OpenSsl.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libclrgc.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libclrgcexp.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libclrjit.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libcoreclr.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libhostfxr.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libhostpolicy.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libmscordaccore.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/libmscordbi.dylib
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.csproj.AssemblyReference.cache
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.AssemblyInfoInputs.cache
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.AssemblyInfo.cs
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.csproj.CoreCompileInputs.cache
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.sourcelink.json
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGui.9FB4B3CA.Up2Date
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/refint/QuestGuildTerminal.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.pdb
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/QuestGuildTerminal.genruntimeconfig.cache
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/obj/Debug/net9.0/osx-x64/ref/QuestGuildTerminal.dll
+/Users/Sheikh/Desktop/Backend_Cloud Development_courses/Objektorienterad programmering med C# 1_2/Uppgifter/PortFolio/QuestGuildTerminal/bin/Debug/net9.0/osx-x64/Spectre.Console.dll

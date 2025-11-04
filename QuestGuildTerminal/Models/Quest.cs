@@ -35,6 +35,10 @@ namespace QuestGuildTerminal
         // Navigation property (for database version)
         [ForeignKey("HeroId")]
         public virtual Hero Hero { get; set; }
+        public bool RequiresGameCompletion { get; set; }
+        public string RequiredGame { get; set; } = "Tetris";
+        public int RequiredGameLevel { get; set; } = 3;
+        public bool IsGameCompleted { get; set; } = false;
 
         // Constructor for simple usage (without heroId)
         public Quest(string title, string description, DateTime dueDate, Priority priority)
@@ -62,10 +66,21 @@ namespace QuestGuildTerminal
         }
 
         public void MarkComplete()
+    {
+        if (RequiresGameCompletion && !IsGameCompleted)
         {
-            IsCompleted = true;
-            CompletedDate = DateTime.Now;
+            throw new InvalidOperationException("Must complete game challenge first!");
         }
+        
+        IsCompleted = true;
+        CompletedDate = DateTime.Now;
+    }
+    
+    public void MarkGameCompleted()
+    {
+        IsGameCompleted = true;
+        // Don't auto-complete quest, let them decide when to submit
+    }
 
         public override string ToString()
         {
