@@ -8,6 +8,6 @@ namespace QuestGuildTerminal
     {
         Task<string> GenerateQuestDescriptionAsync(string title);
         Task<Priority> SuggestPriorityAsync(string title, DateTime dueDate);
-        Task<string> SummarizeQuestsAsync(IQuestManager questManager); // CHANGED: Use interface
+        Task<string> SummarizeQuestsAsync(IQuestManager questManager); 
     }
 }
